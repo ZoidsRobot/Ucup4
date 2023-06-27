@@ -19,7 +19,7 @@ APP_ID = int(os.environ.get("APP_ID", "9774346"))
 API_HASH = os.environ.get("API_HASH", "a92aed7d74654a563af4b07efbcd88e9")
 
 # ID Channel Database
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001422964183"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001967390899"))
 
 # OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", "907544310"))
@@ -31,9 +31,9 @@ OWNER = os.environ.get("OWNER", "Eror_404_NF")
 DB_URI = os.environ.get("DATABASE_URL", "postgres://mozyycwg:dLVUOr8RYw3A1qLfQ_wDy46Tgn8Ua4HC@balarama.db.elephantsql.com/mozyycwg")
 
 # ID dari Channel Atau Group Untuk Wajib Subscribenya
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001961077691"))
-FORCE_SUB_CHANNEL2 = int(os.environ.get("FORCE_SUB_CHANNEL2", "-1001610061530"))
-FORCE_SUB_GROUP = int(os.environ.get("FORCE_SUB_GROUP", "-1001963199652"))
+FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001939788915"))
+FORCE_SUB_CHANNEL2 = int(os.environ.get("FORCE_SUB_CHANNEL2", "-1001685635576"))
+FORCE_SUB_GROUP = int(os.environ.get("FORCE_SUB_GROUP", "-1001511339922"))
 FORCE_SUB_GROUP2 = int(os.environ.get("FORCE_SUB_GROUP2", "-1001883322449"))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
